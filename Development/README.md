@@ -5,5 +5,5 @@
 
 - JS: https://github.com/MaiiaPo/CrocTelegramBotTemplate
 - Java:
-- C#: 
+- C#: https://github.com/Alword/CrocTelegramBotTemplateCsharp
 
