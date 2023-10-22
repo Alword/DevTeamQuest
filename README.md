@@ -29,7 +29,6 @@
 
 - Конечная сумма
 
-
 ## Примеры калькуляторов
 - [Инвестиционный калькулятор сложного процента с пополнением](https://calcus.ru/kalkulyator-investicij)
 - [Калькулятор создания капитала и пассивного дохода](https://poformule.ru/ehkonomika/sozdanie-kapitala-i-passivnogo-dokhoda)
